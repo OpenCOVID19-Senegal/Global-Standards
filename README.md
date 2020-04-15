@@ -15,7 +15,7 @@ II- Exemples
     FHIR est développé par HL7 (health Level 7) qui est une organisation à but non lucratif dédiée au développement de l'interopérabilité des données de santé et la standardisation du protocole d'échanges médicaux.
     Le principal domaine d'intervention de FHIR est donc le "dossier médical partagé".
     Il vous decrit/liste les informations utiles pour une resource donnée (patient, service de santé, etc...)
-    Exemple 1 - La resource "Patient": http://hl7.org/implement/standards/fhir/patient.html
+      a) Exemple 1 - La resource "Patient": http://hl7.org/implement/standards/fhir/patient.html
     Elle est décrite comme etant toute info administrative ou demographique sur un individu/animal recevant des soins ou des prestations de service de santé
   Donc les infos du patinet sont 
     identifiant
@@ -24,8 +24,7 @@ II- Exemples
     telecom
     gender
     .....
-   
-   
-   Exemple2 - La resource "Service de santé" 
+    
+      b) Exemple2 - La resource "Service de santé" 
     ...
     
